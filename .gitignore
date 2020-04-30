@@ -46,6 +46,8 @@ generatedsources
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
 
 *.iml
+.gitignore
+README.md
 
 ## Directory-based project format:
 .idea/
